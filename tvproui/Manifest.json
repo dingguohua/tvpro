@@ -1,0 +1,34 @@
+{
+  "info" : 
+  {
+    "name" : "长江龙编播通",
+
+    "summary" : "江苏广播电视总台新一代电视节目编排系统",
+    "description" : "江苏广播电视总台新一代电视节目编排系统",
+    
+    "homepage" : "http://tvpro.cjltv.com/",
+
+    "license" : "commercial",
+    "authors" : 
+    [
+      {
+        "name" : "WeiboZhang",
+        "email" : "datouxia@gmail.com"
+      }
+    ],
+
+    "version" : "trunk",
+    "qooxdoo-versions": ["2.1.1"]
+  },
+  
+  "provides" : 
+  {
+    "namespace"   : "tvproui",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "application"
+  }
+}
+

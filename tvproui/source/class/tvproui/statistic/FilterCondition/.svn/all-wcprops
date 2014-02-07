@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2923/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition
+END
+TimeFieldType.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2908/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/TimeFieldType.js
+END
+FieldType.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2904/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/FieldType.js
+END
+MaterialTypeFieldType.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2908/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/MaterialTypeFieldType.js
+END
+VectorTypeFieldType.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2904/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/VectorTypeFieldType.js
+END
+FilterCondition.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2923/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/FilterCondition.js
+END
+StringFieldType.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2902/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/StringFieldType.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2904/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/Field.js
+END
+FilterConditionEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2904/tvpro/site/tvproui/source/class/tvproui/statistic/FilterCondition/FilterConditionEditor.js
+END
